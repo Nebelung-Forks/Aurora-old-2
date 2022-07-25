@@ -5,7 +5,7 @@ import (
 	"fmt"
 	//"github.com/gobwas/ws"
 	//"github.com/gobwas/ws/wsutil"
-	//"github.com/titaniumnetwork-dev/Aurora/modules/config"
+	//"github.com/Titanium-Network/Aurora/modules/config"
 	"net/http"
 )
 
