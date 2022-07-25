@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/titaniumnetwork-dev/Aurora/modules/config"
-	"github.com/titaniumnetwork-dev/Aurora/modules/proxy"
+	"github.com/Titanium-Network/Aurora/modules/config"
+	"github.com/Titanium-Network/Aurora/modules/proxy"
 	"gopkg.in/yaml.v2"
 )
 
