@@ -3,7 +3,7 @@ package rewrites
 import (
 	"github.com/tdewolff/parse/v2"
 	"github.com/tdewolff/parse/v2/css"
-	"github.com/titaniumnetwork-dev/Aurora/modules/config"
+	"github.com/Titanium-Network/Aurora/modules/config"
 	"golang.org/x/net/html"
 
 	//	"encoding/xml"
