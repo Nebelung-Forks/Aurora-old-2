@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/titaniumnetwork-dev/Aurora/modules/config"
-	"github.com/titaniumnetwork-dev/Aurora/modules/rewrites"
+	"github.com/Titanium-Network/Aurora/modules/config"
+	"github.com/Titanium-Network/Aurora/modules/rewrites"
 )
 
 // Server used for http proxy
