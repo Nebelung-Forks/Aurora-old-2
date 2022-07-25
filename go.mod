@@ -1,4 +1,4 @@
-module github.com/titaniumnetwork-dev/Aurora
+module github.com/Titanium-Network/Aurora
 
 require (
 	github.com/gobwas/httphead v0.1.0
